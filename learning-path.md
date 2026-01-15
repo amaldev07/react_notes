@@ -1,4 +1,4 @@
-* Your Best Learning Path (Tailored for you)
+-Your Best Learning Path (Tailored for you)
 
 Since you:
 
